@@ -1,0 +1,20 @@
+{
+  "name": "serverpokemon",
+  "version": "1.0.0",
+  "description": "Ejemplo servidor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsvaldoPG98/ServerPokemon.git"
+  },
+  "keywords": [],
+  "author": "Osvaldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsvaldoPG98/ServerPokemon/issues"
+  },
+  "homepage": "https://github.com/OsvaldoPG98/ServerPokemon#readme"
+}
